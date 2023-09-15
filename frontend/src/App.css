@@ -1,0 +1,18 @@
+.icon {
+  font-size: 4rem;
+}
+.userItem {
+  margin: 10px;
+  background-color: gray;
+  padding: 10px;
+}
+
+.logoName {
+  text-align: left;
+}
+.chatPerson {
+  font-weight: bold;
+}
+
+.jobCompanyName {
+}
